@@ -1,3 +1,2 @@
 # AulasPython
 
-print('murilove')
